@@ -1,14 +1,10 @@
 ## Welcome to GitHub Pages
 こんにちは。
 
-Markdown（マークダウン）は、**文章の書き方**です。デジタル文書を活用する方法として考案されました。特徴は、
+*少しだけ自己紹介*
 
-- 手軽に文章構造を明示できること
-- 簡単で、覚えやすいこと
-- 読み書きに特別なアプリを必要としないこと
-- それでいて、対応アプリを使えば快適に読み書きできること
-
-などです。Markdownはジョン・グルーバー（John Gruber）によって2004年に開発され、最初は [Daring Fireball: Markdown](http://daringfireball.net/projects/markdown/) で公開されました。その後、多くの開発者の手を経ながら発展してきました。
+*趣味*はゲームをすることやNBAを見ることです。渡辺雄太や八村塁の活躍を見てると、とても嬉しい気分になります。
+ゲームは最近スマブラにハマっています。友達とすると楽しいゲームですよね。
 
 You can use the [editor on GitHub](https://github.com/kitasou02/kitasou02.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
