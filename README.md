@@ -1,9 +1,9 @@
 ## Welcome to GitHub Pages
 こんにちは。
 
-*少しだけ自己紹介*
+**少しだけ自己紹介**
 
-*趣味*はゲームをすることやNBAを見ることです。渡辺雄太や八村塁の活躍を見てると、とても嬉しい気分になります。
+趣味はゲームをすることやNBAを見ることです。渡辺雄太や八村塁の活躍を見てると、とても嬉しい気分になります。
 ゲームは最近スマブラにハマっています。友達とすると楽しいゲームですよね。
 
 You can use the [editor on GitHub](https://github.com/kitasou02/kitasou02.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
